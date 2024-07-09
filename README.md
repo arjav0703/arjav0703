@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arjav0703
-- 🌱 I’m currently learning hacking and raspberry pi pico
-- 💞️ I’m looking to collaborate on using raspberry pi pico as rubber ducky
+- 🌱 I’m currently learning hacking and raspberry pi zero 2w
 - 📫 How to reach me arjav0703@icloud.com
 - 😄 Pronouns: he/him
 
