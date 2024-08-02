@@ -1,1 +1,1 @@
-print("hello")
+Let's learn Python
