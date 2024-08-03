@@ -1,5 +1,5 @@
 #robot barista
-print("Heloo, welcome to techy coffee!!!!!!!!!!!!!!")
+print("Heloo, welcome to the techy coffee!!!!!!!!!!!!!!")
 
 # This will ask the user to enter an input
 #input("what is your name?") 
