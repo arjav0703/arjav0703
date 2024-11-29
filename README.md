@@ -1,5 +1,4 @@
-Cyber Security and Networking lover!
-
-Linux User
-
-Support Open-Source Software
+## Contact meh 
+Discord: @madmax000108
+Email: arjavjain0703@gmail.com
+       missionanonymous03@proton.me
