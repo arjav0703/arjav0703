@@ -1,4 +1,6 @@
 ## Contact meh 
-Discord: @madmax000108
-Email: arjavjain0703@gmail.com
+---
+### Discord: @madmax000108
+--- 
+### Email: arjavjain0703@gmail.com
        missionanonymous03@proton.me
