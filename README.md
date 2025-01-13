@@ -6,4 +6,4 @@
 ###        missionanonymous03@proton.me
 --- 
 ### Portfolio
-https://my-portfolio-git-main-arjav-jains-projects-7433ff58.vercel.app/
+https://arjav0703.github.io/My-Portfolio/
