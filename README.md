@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a part of the Hack Club community and Tech lead at Hack-Club Vidisha.<br>I am a 14 year old teenager.<br>I am currently working on AI agents and Mobile App development with Flutter.
+I am a part of the Hack Club community and Tech lead at Hack-Club Vidisha.<br>I am a 14 year old teenager.<br>
 
 
 ## 🌐 Socials:
