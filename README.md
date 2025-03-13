@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a part of the Hack Club community and Tech lead at Hack-Club Vidisha.<br>I am a 14 year old teenager.<br>
-
+I am currently learning Javascript, Typescript React and Next.js
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjav0703) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjav-jain-219476333) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arjavjain0703) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjavjain0703@gmail.com) 
