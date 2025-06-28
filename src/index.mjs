@@ -5,13 +5,13 @@ import { getEmotionUrl, tamagitchi } from "./tamagitchi.mjs";
 import stats from "./stats.json" with {type: "json"};
 
 // !! add your username and the name of the repo you'd like to highlight
-const username = "idksarah";
-const highlightedRepo = "tamagitchi";
+const username = "arjav0703";
+const highlightedRepo = "cargofetch";
 
 // !! add your own README content here! make sure it's html 
-const otherContent= `<h1> hi!! i'm sarah</h1>
-<p> i. do not know what i'm doing! </p>
-<p> find me on the hackclub slack @idksarah!</p>
+const otherContent= `<h1> hi!! i'm Arjav</h1>
+<p> I am learning Rust 🦀 at the moment </p>
+<p> find me on the hackclub slack @Arjav!</p>
 <hr class="solid">`;
 
 dotenv.config();
