@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-    - cron: "0 * * * *" # runs every hour
+    - cron: "0 */4 * * *" # runs every 4 hour
   workflow_dispatch:
 
 permissions:
