@@ -3,10 +3,10 @@
 <p> find me on the hackclub slack @Arjav!</p>
 <hr class="solid">
 <div align="center">
-<img style="width: 50em;" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/52a51244037834d41778e57a5599cb98420597ad_happy.gif" alt="tamagitchi" /><br>
+<img style="width: 50em;" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7d352400490c50770430f069bf846b1b0d4abbce_excited.gif" alt="tamagitchi" /><br>
 
-<p>octocat is feeling happy because arjav0703 has made >= one commit today!</p>
-<p>pet them to make them excited! (<a href="https://github.com/arjav0703/cargofetch">star arjav0703's cargofetch!! ⭐</a>)</p>
+<p>octocat is feeling excited because arjav0703 received a star on <i>cargofetch</i>!</p>
+<p>petting them can't make them any happier, but it sure will make arjav0703 happy! (<a href="https://github.com/arjav0703/cargofetch">star arjav0703's cargofetch!! ⭐</a>)</p>
 
-<p>last updated: 08:40 utc | tamagitchi updates once an hour. check back soon! </p>
+<p>last updated: 12:52 utc | tamagitchi updates once an hour. check back soon! </p>
 </div>
